@@ -1,5 +1,5 @@
 # ipip
-Alfred 2 workflow to show ip location detail
+Alfred 2/3 workflow to show ip location detail
 
 ### Installation
 Download ipip.alfredworkflow in this repository, then double click on it.
